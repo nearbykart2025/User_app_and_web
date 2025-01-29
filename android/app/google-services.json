@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "940618354979",
+    "project_id": "nearbykart-94bf3",
+    "storage_bucket": "nearbykart-94bf3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940618354979:android:cb03029f3b68065769fc96",
+        "android_client_info": {
+          "package_name": "com.nearbykart.nearbykart_delivery_patner_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBxdkgMzwrudky6Etaxvow10H-nqabOpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940618354979:android:39ba34630e3c999969fc96",
+        "android_client_info": {
+          "package_name": "com.nearbykart.nearbykart_e_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBxdkgMzwrudky6Etaxvow10H-nqabOpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940618354979:android:dcf666ab85987f8269fc96",
+        "android_client_info": {
+          "package_name": "com.nearbykart.nearbykart_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBxdkgMzwrudky6Etaxvow10H-nqabOpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
